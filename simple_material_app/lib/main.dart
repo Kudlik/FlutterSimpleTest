@@ -16,7 +16,7 @@ void main() {
           // Center the content
           child: new Center(
             // Add Text
-            child: new Text("Hello World!"),
+            child: new Text("Testy Działajo!"),
           ),
         ),
       )));
